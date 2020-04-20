@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1aa0fbd3-8d34-4f4d-90f9-35adb3388aa6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirstjava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirstjava/MyFirstJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFirstJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFirstJava.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aof15ZIcASbqVRCUC1mjHXeLmP" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyFirstJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFirstJava" />
+      <module name="myfirstjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFirstJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aa0fbd3-8d34-4f4d-90f9-35adb3388aa6" name="Default Changelist" comment="" />
+      <created>1587406648945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587406648945</updated>
+      <workItem from="1587406661485" duration="393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1324" height="169" key="GridCell.Tab.0.bottom" timestamp="1587407041859">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="169" key="GridCell.Tab.0.bottom/0.23.1366.691@0.23.1366.691" timestamp="1587407041859" />
+    <state width="1324" height="169" key="GridCell.Tab.0.center" timestamp="1587407041858">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="169" key="GridCell.Tab.0.center/0.23.1366.691@0.23.1366.691" timestamp="1587407041858" />
+    <state width="1324" height="169" key="GridCell.Tab.0.left" timestamp="1587407041857">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="169" key="GridCell.Tab.0.left/0.23.1366.691@0.23.1366.691" timestamp="1587407041857" />
+    <state width="1324" height="169" key="GridCell.Tab.0.right" timestamp="1587407041859">
+      <screen x="0" y="23" width="1366" height="691" />
+    </state>
+    <state width="1324" height="169" key="GridCell.Tab.0.right/0.23.1366.691@0.23.1366.691" timestamp="1587407041859" />
+  </component>
+</project>
